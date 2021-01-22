@@ -3,7 +3,7 @@ author = ""
 date = ""
 draft = true
 hero = ""
-title = "default"
+title = "Learning to grow seaweed"
 type = "blog"
 
 +++
