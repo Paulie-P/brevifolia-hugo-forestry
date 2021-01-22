@@ -1,7 +1,6 @@
 +++
 author = "Paul Phillpott"
 date = 2021-01-22T10:00:00Z
-draft = true
 hero = "/images/martin-dawson-psx_ss2uujm-unsplash.jpg"
 title = "Learning to grow seaweed"
 type = "blog"
